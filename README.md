@@ -61,6 +61,8 @@ confusion = confusion_matrix(y_test, y_pred)
 print("Confusion Matrix:\n", confusion)
 classification_report_output = classification_report(y_test, y_pred)
 print("Classification Report:\n", classification_report_output)
+print("Prediction ofLR:")
+lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
@@ -90,11 +92,7 @@ CONFUSION MATRIX
 
 CLASSIFICATION REPORT & PREDICTION
 
-<img width="892" height="197" alt="Screenshot 2026-02-04 093039" src="https://github.com/user-attachments/assets/d541133d-d33e-4ad3-a6b7-23cb6b612975" />
-
-
-
-
+<img width="542" height="469" alt="image" src="https://github.com/user-attachments/assets/d9e79e85-ea65-4058-b39e-661b0be9cc91" />
 
 
 ## Result:
