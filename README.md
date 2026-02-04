@@ -65,18 +65,31 @@ print("Classification Report:\n", classification_report_output)
 
 ## Output:
 HEAD
+
 <img width="961" height="213" alt="Screenshot 2026-02-04 092912" src="https://github.com/user-attachments/assets/23bff4f1-5f83-4677-bf7f-69353468d47d" />
+
 COPY
+
 <img width="905" height="219" alt="Screenshot 2026-02-04 092935" src="https://github.com/user-attachments/assets/3325c76b-cba9-46b1-b6da-ec242fe1e950" />
+
 FIT TRANSFORM
+
 <img width="902" height="487" alt="Screenshot 2026-02-04 092953" src="https://github.com/user-attachments/assets/2d6cb44e-124a-4e17-add5-8c1a04950298" />
+
 LOGISTIC REGRESSION
+
 <img width="889" height="248" alt="Screenshot 2026-02-04 093837" src="https://github.com/user-attachments/assets/b2934383-fabd-4309-b215-29b32023b60c" />
+
 ACCURACY SCORE
+
 <img width="900" height="67" alt="Screenshot 2026-02-04 093010" src="https://github.com/user-attachments/assets/48b3f10a-03d1-45ea-bfca-255f09722262" />
+
 CONFUSION MATRIX
+
 <img width="895" height="105" alt="Screenshot 2026-02-04 093022" src="https://github.com/user-attachments/assets/5a49f3fe-b84b-4ed5-99bb-3771b5e06a28" />
+
 CLASSIFICATION REPORT & PREDICTION
+
 <img width="892" height="197" alt="Screenshot 2026-02-04 093039" src="https://github.com/user-attachments/assets/d541133d-d33e-4ad3-a6b7-23cb6b612975" />
 
 
